@@ -25,7 +25,13 @@ To generate the response by the compound AI systems we study, you can simply run
 
 
 ## 🚀 Performance Analysis 
-You can still reproduce our analysis without the API key. In fact, we have released the generation logs under the folder `results/`. To analyze the performance, one can run the Jupyter notebooks under the folder `analysis`, e.g., [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)](https://github.com/lchen001/CompoundAIScalingLaws/blob/main/analysis/ScaleModelAnalysis_AVERITEC.ipynb) for the AVERITEC dataset.
+You can still reproduce our analysis without the API key. In fact, we have released the generation logs under the folder `results/`. To analyze the performance, there are two steps. First, unzip the results.zip file by 
+
+```
+unzip results.zip
+```
+
+Then, one can run the Jupyter notebooks under the folder `analysis`, e.g., [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)](https://github.com/lchen001/CompoundAIScalingLaws/blob/main/analysis/ScaleModelAnalysis_AVERITEC.ipynb) for the AVERITEC dataset.
 
 ## 📣 Updates & Changelog
 
